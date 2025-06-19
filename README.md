@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Bhanu Teja Yerram 👋<br><br>Quick-learning and detail-oriented Computer Science student passionate about technology and problem-solving. I'm currently pursuing my *B.Tech in Computer Science and Business Systems* at *VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad* with a *CGPA of 8.87/10*.<br>
+# Hi there, I'm Bhanu Teja Yerram 👋<br>Quick-learning and detail-oriented Computer Science student passionate about technology and problem-solving. I'm currently pursuing my *B.Tech in Computer Science and Business Systems* at *VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad* with a *CGPA of 8.87/10*.
 
 
 
